@@ -1,12 +1,12 @@
 {
   "name": "i-tools",
   "version": "1.0.12",
-  "description": "爱拓工具箱",
+  "description": "安稳工具箱",
   "author": "iLay1678",
   "keywords": [
     "tools"
   ],
-  "repository": "https://github.com/iLay1678/i-tools.git",
+  "repository": "https://github.com/dinghyv/i-tools.git",
   "license": "MIT",
   "scripts": {
     "dev": "next dev",

@@ -7,7 +7,7 @@ export function GET() {
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>爱拓工具箱 API 文档</title>
+    <title>安稳工具箱 API 文档</title>
     <style>
       html, body, #app {
         margin: 0;

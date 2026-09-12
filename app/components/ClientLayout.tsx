@@ -16,7 +16,7 @@ export default function ClientLayout({
           <div className="mr-8 hidden md:flex">
             <Link href="/" className="mr-6 flex items-center space-x-2 transition-colors hover:text-primary/90">
               <span className="hidden font-bold sm:inline-block text-xl tracking-tight">
-                爱拓工具箱
+                安稳工具箱
               </span>
             </Link>
           </div>
@@ -32,7 +32,7 @@ export default function ClientLayout({
                 <span>首页</span>
               </Link>
               <Link
-                href="https://github.com/iLay1678/i-tools"
+                href="https://github.com/dinghyv/i-tools"
                 target="_blank"
                 rel="noreferrer"
                 className="transition-colors hover:text-primary text-foreground/80 flex items-center gap-2 group"
@@ -65,9 +65,9 @@ export default function ClientLayout({
       <footer className="py-6 border-t bg-muted/30">
         <div className="container max-w-screen-xl mx-auto px-4 flex flex-col items-center justify-center gap-4">
           <p className="text-balance text-center text-sm leading-loose text-muted-foreground">
-            版权所有 © {new Date().getFullYear()} 爱拓工具箱 · Power by 
-            <Link href="https://www.ilay.top/" target="_blank" rel="noreferrer" className="ml-1 underline underline-offset-4 hover:text-foreground">
-              iLay
+            版权所有 © {new Date().getFullYear()} 安稳工具箱 · Power by 
+            <Link href="https://www.antwen.cn/" target="_blank" rel="noreferrer" className="ml-1 underline underline-offset-4 hover:text-foreground">
+              Antwen
             </Link>
           </p>
         </div>

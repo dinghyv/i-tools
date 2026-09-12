@@ -11,7 +11,7 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@
 import { toast } from "sonner";
 
 export default function TtsPage() {
-  const [text, setText] = useState("欢迎使用爱拓工具箱，这是一个基于浏览器 Web Speech API 实现的文字转语音工具。您可以自由调节语速、音调和音量。");
+  const [text, setText] = useState("欢迎使用安稳工具箱，这是一个基于浏览器 Web Speech API 实现的文字转语音工具。您可以自由调节语速、音调和音量。");
   const [voices, setVoices] = useState<SpeechSynthesisVoice[]>([]);
   const [selectedVoice, setSelectedVoice] = useState<string>("");
   const [rate, setRate] = useState(1);

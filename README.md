@@ -1,8 +1,8 @@
-<h1 align="center">i-Tools | 爱拓工具箱</h1>
+<h1 align="center">i-Tools | 安稳工具箱</h1>
 
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/iLay1678/i-tools?style=flat)](https://github.com/iLay1678/i-tools)
+[![Stars](https://img.shields.io/github/stars/iLay1678/i-tools?style=flat)](https://github.com/dinghyv/i-tools)
 ![badge](https://cnb.cool/ilay1678/i-tools/-/badge/git/latest/ci/status/tag_push)
 [![License](https://img.shields.io/github/license/iLay1678/i-tools)](LICENSE)
 
@@ -107,7 +107,7 @@
 
 1. 克隆项目
 ```bash
-git clone https://github.com/iLay1678/i-tools.git
+git clone https://github.com/dinghyv/i-tools.git
 cd i-tools
 ```
 
@@ -138,11 +138,11 @@ npm run build
 
 推荐使用 EdgeOne 进行一键部署。
 
-[![使用 EdgeOne Pages 部署](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://console.cloud.tencent.com/edgeone/pages/new?repository-url=https://github.com/iLay1678/i-tools)
+[![使用 EdgeOne Pages 部署](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://console.cloud.tencent.com/edgeone/pages/new?repository-url=https://github.com/dinghyv/i-tools)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/iLay1678/i-tools)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/dinghyv/i-tools)
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://dash.cloudflare.com/?to=/:account/workers-and-pages/create/deploy-to-workers&repository=https://github.com/iLay1678/i-tools)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://dash.cloudflare.com/?to=/:account/workers-and-pages/create/deploy-to-workers&repository=https://github.com/dinghyv/i-tools)
 
 ### Docker 部署
 

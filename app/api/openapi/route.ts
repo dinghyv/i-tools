@@ -3,7 +3,7 @@ import { NextResponse } from 'next/server'
 const openApiDocument = {
   openapi: '3.1.0',
   info: {
-    title: '爱拓工具箱 API',
+    title: '安稳工具箱 API',
     version: '1.0.0',
     description: '工具箱接口集合，包含时钟、IP 查询、占位图、二维码、Bing 美图等接口。',
   },
